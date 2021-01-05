@@ -3,8 +3,8 @@
 
 - 🛹 My hobbies include reading **novels**, playing **chess**, **biking** and I'm learning to **skate** and play the **guitar**.  
 
-- 💻 I write programs in **Python**, **Java**, **JavaScript** and enjoy building apps in **Flutter**
+- 💻 I write programs in **Python**, **Java**, websites with **JavaScript** and **React**, and enjoy building apps in **Flutter**
 
-- 📚 I'm currently learning **Swift** and Flask
+- 📚 I'm currently learning **Swift** and **Django**
 
 - 🔥 [Checkout my website](https://sauronthemighty.github.io) to learn more about my projects!
