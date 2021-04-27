@@ -7,4 +7,4 @@
 
 - 📚 I'm currently learning **Swift** and **Django**
 
-- 🔥 [Checkout my website](https://sauronthemighty.github.io) to learn more about my projects!
+- 🔥 [Checkout my website](http://www.ashishselvaraj.com/) to learn more about my projects!
