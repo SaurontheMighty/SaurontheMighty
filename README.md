@@ -3,7 +3,7 @@
 
 - 🛹 My hobbies include reading **novels**, playing **chess**, **biking** and I'm learning to **skate** and play the **guitar**.  
 
-- 💻 I write programs in **Python**, **Java**, websites with **JavaScript** (mainly using **Node** and **React**), and enjoy building apps in **Flutter**
+- 💻 I write programs in **Python**, **Java**, websites in **JavaScript** (with **Node** and **React**), and enjoy building apps in **Flutter**
 
 - 📚 I'm currently learning **Swift** and **Node JWT**
 
