@@ -3,8 +3,6 @@
 
 - 🛹 My hobbies include reading **novels**, playing **chess**, **biking** and I'm learning to **skate** and play the **guitar**.  
 
-- 💻 I write programs in **Python**, **Java**, websites in **JavaScript** (with **Node** and **React**), and enjoy building apps in **Flutter**
-
-- 📚 I'm currently learning **Swift** and **Node JWT**
+- 💻 I write programs in **Python**, **Java**, websites in **JavaScript** (with **Node** and **React**), and enjoy building apps with **SwiftUI**
 
 - 🔥 [Checkout my website](http://www.ashishselvaraj.com/) to learn more about my projects!
