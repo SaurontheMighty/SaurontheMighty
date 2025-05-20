@@ -2,4 +2,4 @@
 &nbsp
 
 - Creator of a mildly popular sudoku app - Not Evil Sudoku: https://apple.co/3vyesUR 
-- Generally interested in algorithms/interface design/building stuff from scratch for no reason
+- Generally interested in distributed systems/interface design/building stuff
