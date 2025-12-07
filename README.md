@@ -1,2 +1,2 @@
-- Creator of a mildly popular sudoku app - Not Evil Sudoku: https://apple.co/3vyesUR 
-- Generally interested in distributed systems/interface design/building stuff
+- SideKit: appsidekit.com
+- Not Evil Sudoku: apple.co/3vyesUR 
