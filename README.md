@@ -1,2 +1,2 @@
-- SideKit: appsidekit.com
-- Not Evil Sudoku: apple.co/3vyesUR 
+- SideKit- One Package to rule them all for mobile apps: [appsidekit.com](http://appsidekit.com/)
+- Not Evil Sudoku- Minimalist sudoku app for iPhone: [App Store](apple.co/3vyesUR) 
